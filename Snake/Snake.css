@@ -1,0 +1,27 @@
+
+header {
+    display:flex;
+    justify-content: center;
+    font-size:50px;
+    background-color:powderblue;
+
+}
+
+#snakeCanvas {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#scoresheet{
+    display:flex;
+    justify-content:flex-start;
+    padding: 60px;
+    font-size: 25px;
+    
+
+}
+
+
+
